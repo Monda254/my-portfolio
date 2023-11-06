@@ -1,0 +1,24 @@
+/* Resume.css */
+
+.resume {
+    /* Your resume styling here */
+  }
+  
+  .download-cv {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .download-cv a {
+    background-color: #0074d9;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .download-cv a:hover {
+    background-color: #0056b3;
+  }
+  

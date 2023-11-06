@@ -1,0 +1,33 @@
+/* NavBar.css */
+
+.navbar {
+    background-color: #333; /* Background color for the navbar */
+    padding: 10px; /* Padding around the entire navbar */
+  }
+  
+  .nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-item {
+    display: inline;
+    margin-right: 20px; /* Add spacing between navigation items */
+  }
+  
+  .nav-item:last-child {
+    margin-right: 0; /* Remove margin from the last item to prevent extra spacing */
+  }
+  
+  .nav-item a {
+    text-decoration: none;
+    color: #fff; /* Text color for navigation links */
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .nav-item a:hover {
+    color: #0074d9; /* Color on hover */
+  }
+  
